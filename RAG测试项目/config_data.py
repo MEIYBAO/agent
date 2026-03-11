@@ -16,3 +16,9 @@ similarity_threshold = 2  # 向量检索的文档个数
 
 embedding_model_name = "text-embedding-v4"  # 向量化模型名称
 chat_model_name = "qwen3-max"  # 聊天模型名称
+
+session_config = {
+    "configurable": {
+        "session_id": "user_001",
+    }
+}
