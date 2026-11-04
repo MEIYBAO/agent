@@ -1,0 +1,8 @@
+2026-03-12 11:48:12,689 - agent - INFO - logger_hander.py:54 - test
+2026-03-12 11:48:12,689 - agent - ERROR - logger_hander.py:55 - 错误日志
+2026-03-12 11:48:12,689 - agent - WARNING - logger_hander.py:56 - 警告日志
+2026-03-12 11:48:12,690 - agent - DEBUG - logger_hander.py:57 - 调试日志
+2026-03-12 11:58:19,430 - agent - INFO - logger_hander.py:54 - test
+2026-03-12 11:58:19,431 - agent - ERROR - logger_hander.py:55 - 错误日志
+2026-03-12 11:58:19,431 - agent - WARNING - logger_hander.py:56 - 警告日志
+2026-03-12 11:58:19,431 - agent - DEBUG - logger_hander.py:57 - 调试日志
